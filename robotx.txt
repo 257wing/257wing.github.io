@@ -1,0 +1,2 @@
+User-agent: *
+Disallow: /favicon-20190401052530399
