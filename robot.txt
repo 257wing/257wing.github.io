@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /favicon.ico
+siteamap: https//257wing.github.io/sitemap.xml
